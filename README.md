@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## The Impact of the COVID-19 Pandemic on Oil Stock Prices
 
 ### Section 3: Correlation between the Demand for Oil and Stock Prices
@@ -12,3 +13,25 @@ As seen here, the impact of the pandemic is most evident in the line representin
 <img width="880" alt="Screenshot 2023-08-17 at 17 01 11" src="https://github.com/SIWhang213/Project-1-group-4/assets/137141385/4adf064a-754f-43e9-89b5-61ee17a9e16f">
 
 The r-values in the ranges of 0.47 - 0.55 indicate that there is a low positive correlation between the two variables. Stated differently, while there are other factors that may influence the price of oil stocks, there is still a small tendency of the two variables to move together in a positive/upward direction. The equation of the linear regression reflects the large difference in the scale range between the two variables. Likewise, the line appears to be an upward slope when in fact it should be more or less horizontal. Lastly, what is particularly interesting is the way in which the markers of the scatterplot are visually distributed in roughly the same manner. This would indicate that these four particular stocks generally move together. 
+=======
+# Project-1-group-4
+---
+### file name: effect_oilPrice_covid_on_oilStockMarket.ipynb
+### Question : How much does US gasoline prices affect the stock market in the US oil industry?
+* Use the library 'yfinance' to retrieve oil companies information such as address, market capitalization and gross profits and stock prices trend.
+* Filtered  the companies out to the Unites States and the United Kingdom, and sort them by gross profits.
+* Use geoapify_key to create maps that plot 30 major companies in the world and 6 selected companies.
+* Create a scatter plot to show the relation between gas prices and stock prices for selected top 6 oil companies.
+* Compute r-values and linear regression for each relationship.
+
+### Question : How much does COVID-19 affect the stock market in the US oil industry?
+* Extract US data from COVID-19 data worldwide and clean them. 
+* Create a figure that displays new COVID-19 cases trend.
+* Create a scatter plot to show the relation between weekly cumulated new COVID-19 cases and stock prices for selected 6 oil companies.
+* Compute r-values and linear regression for each relationship.
+---
+### Attached files :
+* Three jupyter notebook files
+* One REDME file
+* One .gitignore file
+>>>>>>> b0fc92609f38b9b32b3b4ee2c39d2b298aebf0e9
