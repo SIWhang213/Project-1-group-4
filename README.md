@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project-1-group-4
 ---
 ### file name: effect_oilPrice_covid_on_oilStockMarket.ipynb
@@ -36,4 +35,4 @@ The r-values in the ranges of 0.47 - 0.55 indicate that there is a low positive 
 * Three jupyter notebook files
 * One REDME file
 * One .gitignore file
->>>>>>> b0fc92609f38b9b32b3b4ee2c39d2b298aebf0e9
+
