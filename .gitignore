@@ -162,3 +162,12 @@ cython_debug/
 .DS_Store
 research.*
 config.py
+Oil vs Stock/
+Resources/
+Results/
+*.docx
+RelationGasolinePriceStocks.ipynb
+*.csv
+cleaning_WHO_data.ipynb
+presentation_group4_draft.ipynb
+research.ipynb
