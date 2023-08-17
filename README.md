@@ -28,7 +28,6 @@ As seen here, the impact of the pandemic is most evident in the line representin
 <img width="880" alt="Screenshot 2023-08-17 at 17 01 11" src="https://github.com/SIWhang213/Project-1-group-4/assets/137141385/4adf064a-754f-43e9-89b5-61ee17a9e16f">
 
 The r-values in the ranges of 0.47 - 0.55 indicate that there is a low positive correlation between the two variables. Stated differently, while there are other factors that may influence the price of oil stocks, there is still a small tendency of the two variables to move together in a positive/upward direction. The equation of the linear regression reflects the large difference in the scale range between the two variables. Likewise, the line appears to be an upward slope when in fact it should be more or less horizontal. Lastly, what is particularly interesting is the way in which the markers of the scatterplot are visually distributed in roughly the same manner. This would indicate that these four particular stocks generally move together. 
-=======
 
 ---
 ### Attached files :
