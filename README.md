@@ -1,6 +1,6 @@
 # Project-1-group-4
 ---
-## file name: effect_oilPrice_covid_on_oilStockMarket.ipynb
+### file name: effect_oilPrice_covid_on_oilStockMarket.ipynb
 ### Question : How much does US gasoline prices affect the stock market in the US oil industry?
 * Use the library 'yfinance' to retrieve oil companies information such as position, market capitalization and gross profits and stock prices trend.
 * Create maps that plot 30 major companies in the world and 6 selected companies in the US and in the UK.
