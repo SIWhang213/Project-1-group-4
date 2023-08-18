@@ -129,8 +129,8 @@ env.bak/
 venv.bak/
 
 # Spyder project settings
-.spyderproject
-.spyproject
+#.spyderproject
+#.spyproject
 
 # Rope project settings
 .ropeproject
@@ -160,14 +160,14 @@ cython_debug/
 #.idea/
 # For MacOS
 .DS_Store
-research.*
+#research.*
 config.py
-Resources/
-Results/
+#Resources/
+#Results/
 *.docx
 RelationGasolinePriceStocks.ipynb
 *.csv
 cleaning_WHO_data.ipynb
-presentation_group4.ipynb
+#presentation_group4.ipynb
 research.ipynb
 OilStockProject*.*
