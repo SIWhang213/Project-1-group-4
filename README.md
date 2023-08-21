@@ -1,5 +1,9 @@
 # Project-1-group-4
 ---
+### Attached files :
+* Three jupyter notebook files
+* One REDME file
+---
 ### file name: effect_oilPrice_covid_on_oilStockMarket.ipynb
 ### Question : How much does US gasoline prices affect the stock market in the US oil industry?
 * Use the library 'yfinance' to retrieve oil companies information such as address, market capitalization and gross profits and stock prices trend.
@@ -13,10 +17,15 @@
 * Create a figure that displays new COVID-19 cases trend.
 * Create a scatter plot to show the relation between weekly cumulated new COVID-19 cases and stock prices for selected 6 oil companies.
 * Compute r-values and linear regression for each relationship.
+----
+### file name: PyOilStockAnalysis.ipynb
+* Prepare the data
+* Oil industry mmarket capitalization mean/median analysis
+* Oil industry stock index
+* Analysis of the effects of various factors on the oil industry
 ---- 
-## The Impact of the COVID-19 Pandemic on Oil Stock Prices
-
-### Section 3: Correlation between the Demand for Oil and Stock Prices
+### file name: energy_stock.ipynb
+### Correlation between the Demand for Oil and Stock Prices
 ![maksym-kaharlytskyi-u13zBF4r56A-unsplash](https://github.com/SIWhang213/Project-1-group-4/assets/137141385/500f11cf-8bc1-478b-837d-383e914413e9)
 
 Gathering data from the Energy Information Administration's open data server through the use of an API key, we find that the demand for oil in the U.S. (i.e., total consumption) dropped significantly during the first four months of 2020. In fact, this decline closely follows the timeline of the pandemic. Following the detection of a novel coronavirus in Wuhan, China in December 2019, the World Health Organization (WHO) formally announced this revelation in January 9th, 2020 (AJMC, 2021). In the same month, the first case of the virus is detected in the U.S., and by the end of the month the WHO issues a global health emergency. Consequently, global air travel is restricted. By early March, the WHO declares a COVID-19 pandemic, effectively bringing our globalized world to a standstill. 
@@ -30,8 +39,5 @@ As seen here, the impact of the pandemic is most evident in the line representin
 The r-values in the ranges of 0.47 - 0.55 indicate that there is a low positive correlation between the two variables. Stated differently, while there are other factors that may influence the price of oil stocks, there is still a small tendency of the two variables to move together in a positive/upward direction. The equation of the linear regression reflects the large difference in the scale range between the two variables. Likewise, the line appears to be an upward slope when in fact it should be more or less horizontal. Lastly, what is particularly interesting is the way in which the markers of the scatterplot are visually distributed in roughly the same manner. This would indicate that these four particular stocks generally move together. 
 
 ---
-### Attached files :
-* Three jupyter notebook files
-* One REDME file
-* One .gitignore file
+
 
