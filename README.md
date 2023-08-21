@@ -1,7 +1,8 @@
 # Project-1-group-4
 ---
 ### Attached files :
-* Three jupyter notebook files
+* One jupyter notebook file for presentation (file name: presentation_group4_final.ipynb )
+* Three jupyter notebook files for coding
 * One REDME file
 ---
 ### file name: effect_oilPrice_covid_on_oilStockMarket.ipynb
